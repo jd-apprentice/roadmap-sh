@@ -40,6 +40,31 @@ Types of processes:
 
 - Background process: A process that runs behind the scenes. It does not require user intervention and runs as a child process of the shell.
 
+## Networking
+
+For networking im taking a course on Cisco Networking Academy. Progress so far:
+
+- [x] Module 1 - Communication in a Connected World
+- [x] Module 2 - Network Components, Types, Connections
+- [x] Module 3 - Wireless and Mobile Networks
+- [x] Module 4 - Build a Home Network
+- [x] Module 5 - Communication Principles
+- [ ] Module 6 - Network Media
+- [ ] Module 7 - The Access Layer
+- [ ] Module 8 - The Internet Protocol
+- [ ] Module 9 - IPv4 and Networking Segmentation
+- [ ] Module 10 - IPv6 Addressing Formats and Rules
+- [ ] Module 11 - Dynamic Addressing with DHCP
+- [ ] Module 12 - Gateways to Other Networks
+- [ ] Module 13 - The ARP Process
+- [ ] Module 14 - Routing Between Networks
+- [ ] Module 15 - TCP and UDP
+- [ ] Module 16 - Application Layer Services
+- [ ] Module 17 - Network Testing Utilities
+- [ ] Final Exam
+
+[Course Link](https://skillsforall.com/course/networking-basics?courseLang=en-US)
+
 ## Operating Systems
 
 ### Linux
