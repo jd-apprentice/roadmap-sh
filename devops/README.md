@@ -50,7 +50,7 @@ For networking im taking a course on Cisco Networking Academy. Progress so far:
 - [x] Module 4 - Build a Home Network
 - [x] Module 5 - Communication Principles
 - [x] Module 6 - Network Media
-- [ ] Module 7 - The Access Layer
+- [x] Module 7 - The Access Layer
 - [ ] Module 8 - The Internet Protocol
 - [ ] Module 9 - IPv4 and Networking Segmentation
 - [ ] Module 10 - IPv6 Addressing Formats and Rules
