@@ -153,9 +153,9 @@ Just for fun [cmd-challenge](https://github.com/jd-apprentice/cmd-challenge)
 - [x] echo (used it a lot)
 - [x] cat (used it a lot)
 - [x] grep (basic usage)
+- [x] sort (basic usage)
 - [ ] sed
 - [ ] awk
-- [ ] sort
 - [ ] cut
 - [ ] uniq
 - [ ] tr
