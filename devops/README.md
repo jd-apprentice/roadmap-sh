@@ -220,6 +220,12 @@ Examples of github actions I've created
 - [ ] ELK Stack
 - [ ] Loki
 
+## Application Monitoring
+
+- [x] New Relic
+- [ ] AppDynamics
+- [ ] Jaeger
+
 ## Infrastructure Monitoring
 
 - [ ] Prometheus
