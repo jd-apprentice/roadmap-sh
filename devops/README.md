@@ -201,7 +201,7 @@ For docker I've created a few images and compose files for my personal projects 
 ## Intrastructure as Code
 
 - [ ] Ansible
-- [ ] Terraform
+- [ ] Terraform (Currently working on this)
 - [ ] Kubernetes
 
 ## CI/CD
