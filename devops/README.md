@@ -128,7 +128,7 @@ I've built multiple scripts and apps with only bash here are a few
 ## Vim/Nano/Powershell/Emacs
 
 - [x] Vim (I've used vim for a while, but I'm not a power user)
-- [ ] Nano
+- [x] Nano (Same as vim)
 - [ ] Powershell
 - [ ] Emacs
 
@@ -200,14 +200,16 @@ For docker I've created a few images and compose files for my personal projects 
 
 ## Intrastructure as Code
 
-- [ ] Ansible
-- [ ] Terraform (Currently working on this)
+- [x] Ansible (Learning ansible atm)
+- [x] Terraform (also learning terraform)
 - [ ] Kubernetes
 
 ## CI/CD
 
 - [x] Github Actions
 - [ ] Gitlab CI
+- [ ] Jenkins
+- [ ] CircleCI
 
 Examples of github actions I've created
 
@@ -222,14 +224,14 @@ Examples of github actions I've created
 
 ## Application Monitoring
 
-- [x] New Relic
+- [x] New Relic (Only the basics)
 - [ ] AppDynamics
 - [ ] Jaeger
 
 ## Infrastructure Monitoring
 
 - [ ] Prometheus
-- [ ] Grafana
+- [x] Grafana (Only the basics)
 - [ ] Datadog
 
 ## Cloud Providers
