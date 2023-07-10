@@ -65,6 +65,8 @@ For networking im taking a course on Cisco Networking Academy. Progress so far:
 
 [Course Link](https://skillsforall.com/course/networking-basics?courseLang=en-US)
 
+I'm also watching this [video](https://www.youtube.com/watch?v=qiQR5rTSshw)
+
 ## Operating Systems
 
 ### Linux
