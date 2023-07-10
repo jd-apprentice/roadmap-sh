@@ -63,6 +63,20 @@ For networking im taking a course on Cisco Networking Academy. Progress so far:
 - [ ] Module 17 - Network Testing Utilities
 - [ ] Final Exam
 
+OSI Reference Model
+
+![IMG](https://www.imperva.com/learn/wp-content/uploads/sites/13/2020/02/OSI-7-layers.jpg.webp)
+
+[READ](https://www.imperva.com/learn/application-security/osi-model/)
+
+- [x] Application Layer
+- [x] Presentation Layer
+- [x] Session Layer
+- [x] Transport Layer
+- [x] Network Layer
+- [x] Data Link Layer
+- [x] Physical Layer
+
 [Course Link](https://skillsforall.com/course/networking-basics?courseLang=en-US)
 
 I'm also watching this [video](https://www.youtube.com/watch?v=qiQR5rTSshw)
